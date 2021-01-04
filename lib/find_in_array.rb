@@ -7,5 +7,5 @@ def find_element_index(array, value_to_find)
     end
     loopcounter+=1 
   end
-    
+  index
 end
